@@ -1,9 +1,9 @@
 {
-    "name": "ghostfly/slimSkel",
+    "name": "ghostfly/slim-skel",
     "description": "Slim 3 Skeleton (Twig + Eloquent)",
     "type": "project",
     "keywords": ["slim", "slim 3", "skeleton"],
-    "homepage": "https://github.com/ghostfly/slimSkel",
+    "homepage": "https://github.com/ghostfly/slim-skel",
     "license": "MIT",
     "authors": [
         {
